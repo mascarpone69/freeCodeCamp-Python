@@ -1,8 +1,10 @@
 # RPG Character Creator
 A Python program that creates an RPG character based on a character name and three stats: Strength, Intelligence, and Charisma.
-ren
+
 STR ●●●●○○○○○○
+
 INT ●●○○○○○○○○
+
 CHA ●○○○○○○○○○
 
 ## Features
